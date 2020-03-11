@@ -10,19 +10,5 @@ comments: true
 
 ## Hello, World
 
- TeamLog 7기
-
-## Preview
-
-{% capture images %}https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+2019년 기준 선린인터넷고에 재학중인 고등학교 학생입니다.
+토이 프로젝트를 자주 합니다. 행복한 하루 되십쇼.
